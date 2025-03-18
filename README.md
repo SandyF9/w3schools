@@ -56,10 +56,10 @@ H3 adalah menampilkan pembahasan, hampir sama dengan judul.
 
 ## HTML Element
 Elemen dalam HTML yang penting dalam membuat html :
-1. <html> </html>
-2. <body> </body>
-3. <h1> </h1>
-4. <p> </p>
+<html> </html>
+<body> </body>
+<h1> </h1>
+<p> <p>
 dan paad setiap elemnts tersebut terdapat tag awal dan akhir.
 
 ## HTML Atributes
